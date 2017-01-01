@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Expected projects:
+##### Finish my Frametrap Generator (some data analysis with Street Fighter V's frame data)
+##### Web Scraping some site (maybe: http://capcomprotour.com/standings/?lang=pt-br)
+##### Make a great responsive site with Javascript or something like that (I don't have any experience in frontend, I'd like to learning something)
+
+===========================================
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
