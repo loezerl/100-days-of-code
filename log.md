@@ -2,7 +2,7 @@
 
 ### Expected projects:
 ##### Finish my Frametrap Generator (some data analysis with Street Fighter V's frame data)
-##### Web Scraping some site (maybe: http://capcomprotour.com/standings/?lang=pt-br)
+##### Web Scraping some site (maybe: http://capcomprotour.com/standings/?lang=pt-br) or PUC PR Intranet
 [Resource 1](http://docs.python-guide.org/en/latest/scenarios/scrape/)
 [Resource 2](https://scrapy.org/)
 [Resource 3](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
