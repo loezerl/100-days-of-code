@@ -3,7 +3,11 @@
 ### Expected projects:
 ##### Finish my Frametrap Generator (some data analysis with Street Fighter V's frame data)
 ##### Web Scraping some site (maybe: http://capcomprotour.com/standings/?lang=pt-br)
+[Resource 1](http://docs.python-guide.org/en/latest/scenarios/scrape/)
+[Resource 2](https://scrapy.org/)
+[Resource 3](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 ##### Make a great responsive site with Javascript or something like that (I don't have any experience in frontend, I'd like to learning something)
+##### Maybe resolve some problems set by [CS50](https://cs50.harvard.edu/weeks)
 
 ===========================================
 ### Day 0: February 30, 2016 (Example 1)
