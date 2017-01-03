@@ -11,7 +11,6 @@
 
 ===========================================
 ### Day 1: January 03, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Created the repository on github for the Frametrap Generator project; Fixed some issues with Vega's moves; Fixed the conditional to filter the moves that are or aren't a frametrap.
 
