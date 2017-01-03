@@ -10,31 +10,12 @@
 ##### Maybe resolve some problems set by [CS50](https://cs50.harvard.edu/weeks)
 
 ===========================================
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: January 03, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created the repository on github for the Frametrap Generator project; Fixed some issues with Vega's moves; Fixed the conditional to filter the moves that are or aren't a frametrap.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** First day was fine. Maybe in the 2 or less days I will finish this project. But, I've to check all the html files to ascertain all the frametraps.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Street Fighter V (Season 1) - Frametrap Generator](https://github.com/loezerl/SFV-Frametrap-Generator)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
