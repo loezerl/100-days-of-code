@@ -16,5 +16,12 @@
 
 **Thoughts:** First day was fine. Maybe in the 2 or less days I will finish this project. But, I've to check all the html files to ascertain all the frametraps.
 
-**Link to work:** [Street Fighter V (Season 1) - Frametrap Generator](https://github.com/loezerl/SFV-Frametrap-Generator)
+**Link to work:** [Street Fighter V (Season 2) - Frametrap and Framedata Generator](https://github.com/loezerl/SFV-Frametrap-Generator)
 
+### Day 2: January 04, 2017
+
+**Today's Progress**: Generated framedata to with the FAT's json. V-trigger frametraps is already implemented and probably this project is done.
+
+**Thoughts:** Today was more than 2 hours coding the script, and I'm happy that I've finished my first project. The next will be a web scraping using Python to!
+
+**Link to work:** [Street Fighter V (Season 2) - Frametrap and Framedata Generator](https://github.com/loezerl/SFV-Frametrap-Generator)
