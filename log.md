@@ -33,3 +33,11 @@
 **Thoughts:** I'm excited to learning more things using bs4 to web scrap some pages. My final scrap will be on my University's Intranet WebPage. Thanks to [@macloo](https://twitter.com/macloo) for recommended the book: Web Scraping with Python that I will use to study!
 
 **Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
+
+### Day 4: January 06, 2017
+
+**Today's Progress**:  Learned how to use find, find_all and how to filter what I want in theses functions.
+
+**Thoughts:** Not to much code, but reading and studying.
+
+**Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
