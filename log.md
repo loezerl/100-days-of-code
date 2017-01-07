@@ -41,3 +41,11 @@
 **Thoughts:** Not to much code, but reading and studying.
 
 **Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
+
+### Day 5: January 07, 2017
+
+**Today's Progress**:  Learned how to use next and previous siblings/parents and a few about the use of regex in web scraping.
+
+**Thoughts:** Probably my study will continue until day 10. Then I'll start my web scraping project. 
+
+**Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
