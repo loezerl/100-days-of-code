@@ -49,3 +49,11 @@
 **Thoughts:** Probably my study will continue until day 10. Then I'll start my web scraping project. 
 
 **Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
+
+### Day 6: January 08, 2017
+
+**Today's Progress**:  Learned how to login into a page using the lib Requests.
+
+**Thoughts:** I put the Python web scraping's book aside for now. Tried to learning something through searching!
+
+**Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
