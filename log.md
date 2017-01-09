@@ -57,3 +57,11 @@
 **Thoughts:** I put the Python web scraping's book aside for now. Tried to learning something through searching!
 
 **Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
+
+### Day 7: January 09, 2017
+
+**Today's Progress**:  Finished my Python Web scraping Project!
+
+**Thoughts:** I learn better when I challenge myself.
+
+**Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
