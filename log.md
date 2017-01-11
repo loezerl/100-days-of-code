@@ -65,3 +65,11 @@
 **Thoughts:** I learn better when I challenge myself.
 
 **Link to work:** [Python Webscraping](https://github.com/loezerl/Python-webscraping)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**:  Started study Design Patterns using Python through the online course Alura.
+
+**Thoughts:** I think it's time to code more fancy and effectively
+
+**Link to work:** [Python Design Patterns](https://github.com/loezerl/Python-DesignPatterns)
